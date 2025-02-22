@@ -5,4 +5,4 @@ PhantomPacket is a DDOS Attack tool used to send data packets intensively to a s
 [![Download](https://img.shields.io/badge/Download-PhantomPacket-blue?style=for-the-badge&logo=windows)](https://github.com/BayLak-ONE/PhantomPacket/raw/refs/heads/main/PhantomPacket/bin/Debug/PhantomPacket.rar)
 
 
-This simple tool was created similar to hping3, but simple. I created it for educational purposes only. I do not bear any responsibility for misuse of the tool. It is an open source language, C#.
+This simple tool was created similar to hping3, but simple. I created it for educational purposes only. I do not bear any responsibility for misuse of the tool. It is an open source language, C# only.

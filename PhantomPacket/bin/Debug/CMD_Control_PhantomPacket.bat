@@ -13,6 +13,7 @@ echo                /____\ PhantomPacket v1.0
 echo.
 echo Created by BayLak
 echo Github : https://github.com/BayLak-ONE/
+echo Telegram : @Baylaks
 echo Donate BTC: bc1qctxfu3ar94gs3whjyrjl974dhe79wr6nex3txg
 echo _______________________________________________________
 echo.

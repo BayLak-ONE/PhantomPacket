@@ -1,0 +1,8 @@
+C:\Users\BayLak\source\repos\PhantomPacket\PhantomPacket\bin\Debug\PhantomPacket.exe
+C:\Users\BayLak\source\repos\PhantomPacket\PhantomPacket\bin\Debug\PhantomPacket.pdb
+C:\Users\BayLak\source\repos\PhantomPacket\PhantomPacket\obj\Debug\PhantomPacket.Properties.Resources.resources
+C:\Users\BayLak\source\repos\PhantomPacket\PhantomPacket\obj\Debug\PhantomPacket.csproj.GenerateResource.cache
+C:\Users\BayLak\source\repos\PhantomPacket\PhantomPacket\obj\Debug\PhantomPacket.csproj.CoreCompileInputs.cache
+C:\Users\BayLak\source\repos\PhantomPacket\PhantomPacket\obj\Debug\PhantomPacket.exe
+C:\Users\BayLak\source\repos\PhantomPacket\PhantomPacket\obj\Debug\PhantomPacket.pdb
+C:\Users\BayLak\source\repos\PhantomPacket\PhantomPacket\obj\Debug\PhantomPacket.csproj.AssemblyReference.cache
